@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Tema.Master.cs" Inherits="WeatherApiZavrsni.Mas" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Vrijeme</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap CSS -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Freelancer tema CSS -->
+    <link href="Content/freelancer.css" rel="stylesheet" />
+
+    <!-- Font Awesome -->
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+    
+    <link href="Content/search.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body id="page-top" class="index">
+    <form id="form1" runat="server">
+        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="#page-top" id="BtnBack" runat="server">VREMENSKA PROGNOZA</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a href="#page-top"></a>
+                        </li>
+                        <li class="page-scroll">
+                            <a href="#detaljno" id="BtnTableVrijeme" runat="server">Detaljno</a>
+                        </li>
+                        <li class="page-scroll">
+                            <asp:LinkButton ID="BtnPrijava" Text="Prijava" OnClick="BtnPrijava_Click" runat="server" />
+                        </li>
+                        <li class="page-scroll">
+                            <asp:LinkButton ID="BtnOdjava" Text="Odjava" OnClick="BtnOdjava_Click" runat="server" />
+                        </li>
+                    </ul>
+                    <div id="searchDiv" runat="server" class="col-sm-3 col-md-3 pull-right">
+                        <div name="location-input" class="navbar-form" >
+                            <div class="input-group">
+                            <input type="text" class="search-form " name="location" id="location-input" placeholder="Upišite ime grada" autocomplete="off">
+                            </div>
+                            <div id="location-results"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+        <footer class="text-center">
+            <div class="footer-below">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            Copyright &copy; Doris Džale 2016
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </form>
+
+    <!-- jQuery -->
+    <script src="Scripts/jquery-3.1.0.min.js"></script>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+    <!-- Freelancer Theme JavaScript -->
+    <script src="Scripts/freelancer.js"></script>
+    
+    <!-- Google Graf -->
+    <script type="text/javascript" src="Scripts/charts-loader.js"></script>
+
+    <script src="Scripts/graf.js"></script>
+</body>
+</html>

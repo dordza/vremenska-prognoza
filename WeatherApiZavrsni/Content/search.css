@@ -1,0 +1,55 @@
+﻿#location-results {
+    position: absolute;
+    width: 296px;
+    background: transparent;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: white;
+    font-weight: 300;
+}
+
+.placeholder {
+    height: 1px;
+}
+
+#location-results ul {
+    list-style-type: none;
+    font-family: "Roboto", sans-serif;
+    padding-left: 0;
+    margin-top: 0px;
+}
+
+#location-results ul li {
+    font-size: 16px;
+    line-height: 1.4;
+    cursor: pointer;
+    background: rgb(44, 62, 80);
+    color: white;
+    border: none;
+    padding: 5px 10px 3px;
+}
+#location-results ul li:hover {
+    font-weight:bold;
+}
+    
+#location-results ul li:nth-child(odd) {
+    background: rgb(63, 90, 115);
+}
+
+.search-form {
+    border: 0px solid #FFF;
+    border-bottom-width: 2px;
+    background-color: transparent;
+    color: #FFF;
+    width: 100%;
+    font-size: 17px;
+    height: 30px;
+}
+
+input:focus {
+    outline-width: 0;
+}

@@ -1,0 +1,104 @@
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\ApplicationInsights.config
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\csc.exe
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\System.Collections.Immutable.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\vbc.exe
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\VBCSCompiler.exe
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\roslyn\VBCSCompiler.exe.config
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\WeatherApiZavrsni.dll.config
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\WeatherApiZavrsni.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\WeatherApiZavrsni.pdb
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.Web.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.Web.xml
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.csprojResolveAssemblyReference.cache
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.dll
+F:\Documents\Drugi Radovi\Doris\WeatherApiZavrsni\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.pdb
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\ApplicationInsights.config
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\csc.exe
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\System.Collections.Immutable.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\vbc.exe
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\VBCSCompiler.exe
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\roslyn\VBCSCompiler.exe.config
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\WeatherApiZavrsni.dll.config
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\WeatherApiZavrsni.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\WeatherApiZavrsni.pdb
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.Web.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.Web.xml
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.csprojResolveAssemblyReference.cache
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.dll
+F:\Documents\Drugi Radovi\Doris\weather\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.pdb
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\ApplicationInsights.config
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\csc.exe
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\vbc.exe
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\VBCSCompiler.exe
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\WeatherApiZavrsni.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\WeatherApiZavrsni.pdb
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.Web.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\mscorlib.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.Web.xml
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\normidna.nlp
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\normnfc.nlp
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\normnfd.nlp
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\normnfkc.nlp
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\bin\normnfkd.nlp
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.csprojResolveAssemblyReference.cache
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.dll
+C:\Users\Doris\Desktop\weather\WeatherApiZavrsni\obj\Debug\WeatherApiZavrsni.pdb
