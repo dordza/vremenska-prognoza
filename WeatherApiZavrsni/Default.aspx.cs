@@ -66,7 +66,7 @@ namespace WeatherApiZavrsni
                 else
                 {
                     SqlGrad.Lokacija = "/q/HR/Split";
-                    SqlGrad.Tekst = "Split, Croatia";
+                    SqlGrad.Tekst = "Split, Hrvatska";
                 }
 
                 con.Close();

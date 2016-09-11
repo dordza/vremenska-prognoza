@@ -1,4 +1,5 @@
-﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+﻿/*izgled logina i registracije*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);   /*preuzimanje s googla font boja stil slova, tako da bude isti za cilu prijavu*/
 
 .login-page {
   width: 360px;

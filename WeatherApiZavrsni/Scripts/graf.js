@@ -67,13 +67,15 @@ $(function () {
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function(data) {
-            locationText = data.d.Tekst !== "" ? data.d.Tekst : "Split, Hrvatska";
+            locationText = data.d.Tekst !== "" ? data.d.Tekst : "Split, Hrvatska";  /*ako smo dobili prazan string vraća split hrvatska*/
             location = data.d.Lokacija !== "" ? data.d.Lokacija : "/q/HR/Split";
         },
         error: function(data) {
             alert("Error"+data);
         }
     });
+
+    
 
     // PRETRAŽIVANJE LOKACIJE
 
@@ -89,7 +91,7 @@ $(function () {
 
 
     locationInput.keyup(function () {
-        var query = locationInput.val();
+        var query = locationInput.val();  /*masterpage*/
         var cityRequest = "http://autocomplete.wunderground.com/aq?query=" + query;
         if (query.length < 2) {
             $("#location-results").empty();
@@ -146,14 +148,14 @@ $(function () {
 
 
     function drawChart(response) {
-        var grafDiv = document.getElementById("graf_div");
+        var grafDiv = document.getElementById("graf_div");   /*google charts*/
         var data = new google.visualization.DataTable(); // VRIJEME I TEMPERATURA
         data.addColumn("date", "Vrijeme");
         data.addColumn("number", "Temperatura");
 
         $("#locationName").html("Prognoza za " + locationText);
         var podaciPoSatu = response.hourly_forecast;
-
+        
         podaciPoSatu.forEach(function (item) {
             var timeBase = item.FCTTIME;
 
@@ -167,7 +169,7 @@ $(function () {
             item.temperature = parseInt(item.temp.metric, 10); // TEMPERATURA U C
 
             data.addRows([
-                [new Date(date), item.temperature],
+                [new Date(date), item.temperature],   //dodavanje redova u stupce, vrijeme, temp
             ]);
         });
 
@@ -243,6 +245,7 @@ $(function () {
     }
     novaSekunda();
     dohvatiPrognozu(location);
+
     var currentUrl = window.location.href;
     if (currentUrl.indexOf("Login")) {
         requiredResolver();

@@ -36,11 +36,11 @@ label {
     font-weight:bold;
 }
     
-#location-results ul li:nth-child(odd) {
+#location-results ul li:nth-child(odd) {    /*Za svaki grad drugačija pozadina, parni neparni*/
     background: rgb(63, 90, 115);
 }
 
-.search-form {
+.search-form {       /*bez pravokutnika u pretrazi, samo donja crta*/
     border: 0px solid #FFF;
     border-bottom-width: 2px;
     background-color: transparent;
